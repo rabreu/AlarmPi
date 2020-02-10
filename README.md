@@ -1,7 +1,7 @@
 AlarmPi
 =======
 
-AlarmPi is an alarm script for working along with crond, mpd and tty-clock on a Raspberry Pi board  plugged in a HDTV through HDMI/CEC.
+AlarmPi is an alarm script which works along with crond, mpd and tty-clock on a Raspberry Pi board  plugged in a HDTV through HDMI/CEC.
 
 Requirements
 ---------------------
